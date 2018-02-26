@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESP32-WROOM
+D ESP32-WROOM Wifi Module
+K ESP32 Wifi
+$ENDCMP
+#
+$CMP ESP32-WROVER
+D ESP32-WROVER-V4
+K ESP32 Wifi
+$ENDCMP
+#
+$CMP esp32-pico-d4
+D ESP32-PICO-D4 is a System-in-Package (SiP) module, integrating all peripheral components seamlessly, including a crystal oscillator, flash, filter capacitors and RF matching links in one single package.
+K SiP, Wifi,ESP32
+F https://www.espressif.com/sites/default/files/documentation/esp32-pico-d4_datasheet_en.pdf
+$ENDCMP
+#
+#End Doc Library
